@@ -113,3 +113,9 @@ O caso de parada é `atual == null`. Os marcadores `.` e `-` acrescentados à in
 A inserção e a busca percorrem O(k) símbolos, sendo k o tamanho do código. A impressão visita cada nó uma vez e utiliza uma pilha de chamadas proporcional à altura da árvore; a formatação acrescenta o custo de construir e exibir as indentações.
 
 Os cadastros permanecem apenas na memória e são perdidos ao encerrar o programa.
+
+## Transparência sobre o uso de IA
+
+A elaboração e a revisão deste README contaram com auxílio de inteligência artificial, incluindo a organização das explicações, tabelas e exemplos para facilitar o entendimento.
+
+O código também recebeu auxílio de IA na identificação e correção de erros pontuais e na validação de funcionamento.
