@@ -117,5 +117,3 @@ Os cadastros permanecem apenas na memória e são perdidos ao encerrar o program
 ## Transparência sobre o uso de IA
 
 A elaboração e a revisão deste README contaram com auxílio de inteligência artificial, incluindo a organização das explicações, tabelas e exemplos para facilitar o entendimento.
-
-O código também recebeu auxílio de IA na identificação e correção de erros pontuais e na validação de funcionamento.
